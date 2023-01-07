@@ -46,7 +46,7 @@ describe("Todo Application", function () {
       completed: false,
       _csrf: csrfToken,
     });
-//grouped todo
+
     const groupedTodosResponse = await agent
       .get("/")
       .set("Accept", "application/json");
