@@ -1,6 +1,6 @@
 body {
-  background-color:peru;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: white;
+  font-family: sans-serif;
 }
 
 .Todo-Item:hover .trash-icon {
